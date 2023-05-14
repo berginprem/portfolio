@@ -36,7 +36,8 @@ const About = () => {
 
       <motion.p vaiants={fadeIn("","",0.1,1)}
       className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum blanditiis iusto cumque sed quo ducimus hic, mollitia nisi, nam placeat, accusantium itaque voluptates temporibus magni exercitationem dolorem doloribus aliquam! Mollitia?
+      Passionate Web Developer with expertise in NodeJS developing web apps leveraging responsiveness and scalability to provide end-user solutions.🧑‍💻<br />
+      CSE-Software Graduate from SRMIST 2024. 
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
