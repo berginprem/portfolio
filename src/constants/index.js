@@ -21,6 +21,7 @@ import {
     shopify,
     carrent,
     kfit,
+    QuickCamp,
     jobit,
     tripguide,
     threejs,
@@ -212,27 +213,28 @@ import {
       source_code_link: "https://github.com/berginprem/k2-fit",
       demo_link: "https://k2-fit.vercel.app"
     },
-    // {
-    //   name: "Job IT",
-    //   description:
-    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    //   tags: [
-    //     {
-    //       name: "react",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "restapi",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "scss",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: jobit,
-    //   source_code_link: "https://github.com/",
-    // },
+    {
+      name: "QuickCamp",
+      description:
+        "QuickCamp is a web application that allows users to browse and review campgrounds.",
+      tags: [
+        {
+          name: "Node.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Express",
+          color: "green-text-gradient",
+        },
+        {
+          name: "MongoDB",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: QuickCamp,
+      source_code_link: "https://github.com/berginprem/QuickCamp",
+      demo_link: "https://quickcamp.onrender.com/"
+    },
     // {
     //   name: "Trip Guide",
     //   description:
