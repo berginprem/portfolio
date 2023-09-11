@@ -28,7 +28,7 @@ import tesla from "./company/tesla.png";
 
 import carrent from "./carrent.png";
 import kfit from "./kfit.png";
-import QuickCamp from "./QuickCamp.png";
+import QuickCamp from "./Quickcamp.png";
 import k2_logo from "./k2_logo.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
